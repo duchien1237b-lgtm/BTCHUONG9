@@ -1,0 +1,4 @@
+#calc { margin: 30px; }
+#calc input[type=text] { width: 60px; padding: 3px; }
+#calc #result { width: 120px; }
+#calc button { width: 30px; height: 26px; cursor: pointer; }
